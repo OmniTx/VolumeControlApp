@@ -100,9 +100,10 @@ HMENU CreateContextMenu()
 void ShowAboutDialog(HWND hwnd)
 {
     std::wstring aboutText =
-        L"          Imran Ahmed\n\n"
-        L"       Email: itsimran.official001@gmail.com\n"
-        L"       GitHub: github.com/omnitx";
+        L"Volume Control App\n\n"
+        L"Devloper: Imran Ahmed\n"
+        L"Email: itsimran.official001@gmail.com\n"
+        L"GitHub: github.com/omnitx";
 
     MessageBox(hwnd, aboutText.c_str(), L"About Volume Control App", MB_ICONINFORMATION | MB_OK);
 }
