@@ -17,7 +17,7 @@ This application allows users to control their system volume directly from the s
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+    git clone https://github.com/OmniTx/VolumeControlApp.git
     ```
 2. **Open the Solution**:
     - Open the `VolumeControlApp.sln` file in Visual Studio.
